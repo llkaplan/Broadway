@@ -1,0 +1,17 @@
+html {
+  text-align: center;
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+nav .menu {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+ul {
+  list-style-type: none;
+}
