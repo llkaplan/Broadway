@@ -15,6 +15,14 @@ h1 {
 ul {
   list-style-type: none;
 }
-#header {
-  background-image: url("Resources/images/the-flatiron-build.png");
+body {
+  background-image: url('http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg');
+  color: dimgrey;
+  font-family: Helvetica;
+}
+.center {
+  background-color: white;
+}
+.newYork {
+  background-color: white;
 }
