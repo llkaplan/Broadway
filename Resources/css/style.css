@@ -15,14 +15,42 @@ h1 {
 ul {
   list-style-type: none;
 }
+li {
+   margin:0 0 10px 0;
+}
 body {
-  background-image: url('http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   color: dimgrey;
   font-family: Helvetica;
+  background-repeat: no-repeat;
 }
 .center {
   background-color: white;
 }
 .newYork {
   background-color: white;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottom {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-family: Helvetica;
+}
+.copywrite {
+  font-size: 11px;
 }
